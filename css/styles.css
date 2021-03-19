@@ -19,21 +19,11 @@ header{
     text-align: center;
     font-family: helvetica;
     font-weight: bold;
+	background-color: #446E7D;
 }
 
-.carousel-inner {
-    height: auto;
-    width: auto;
-    margin-right: auto;
-    margin-left: auto;
-	margin-top: 0px;
-	margin-bottom: 0px;
-}
 
-.container {
-	height: auto;
-	width: auto;
-}
+.something {}
 
 .button {
 	margin-right: 10px;
