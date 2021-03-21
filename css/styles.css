@@ -112,6 +112,27 @@ width: auto;
 margin:0px 0px 0px 0px;
 }
 
+.competiontextbox{
+    background-color: #29869A;
+    margin:0px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+	text-align: center;	
+	font-family: " Helvetica";
+	max-height: 600px;
+	max-width: 1200px;
+    column-gap: 0px;
+}
+
+.imagebox{
+object-fit: cover;
+margin-right: 0px;
+margin-left: 0px;
+margin-top: 0px;
+margin-bottom: 0px;
+border: 3px #062533;
+column-gap: 0px;
+}
+
 .contaier-footer{
 height: 120px;
 width: auto;
