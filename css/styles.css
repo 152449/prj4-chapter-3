@@ -3,11 +3,11 @@
 * { margin: 0; padding: 0; border: 0; font-size: 100%; }
 
 body{
-	background-color:#446E7D
+	background-color:#FFFFFF
 }
 
 .my-class {
-    color:black;
+    color:white;
     text-align: center;
     font-family: helvetica;
     font-weight: bold;
@@ -54,15 +54,66 @@ margin-bottom: 0px;
 
 }
 
-.box {
-    background-color: #446E7D;
-    height: 200px;
-    width: auto;
-    margin-right: 0px;
-	margin-top: 0px;
-	margin-bottom: 0px;
-	border: 1px solid black;
+.box1 {
+height: auto;
+width: auto;
+margin:0px 0px 20px 0px;
+padding-top: 20px;
+padding-bottom: 20px;
+text-align: center;
+color: white;
+font-size: 6vw;
+font-family: " Helvetica";
+font-weight: bold;
+background-color: #446E7D
 }
 
+.box2 {
+height: auto;
+width: auto;
+margin:0px 0px 0px 0px;
+padding-top: 20px;
+padding-bottom: 20px;
+text-align: center;
+color: white;
+font-size: 6vw;
+font-family: " Helvetica";
+font-weight: bold;
+background-color: #446E7D
+}
+.circlecontainer{
+        display: block;
+        margin-left: auto;
+        margin-right: auto
+    }
 
+.visionmision{
+    background-color: #062533;
+    height: auto;
+    width: auto;
+    margin-right: 0px;
+    margin-left: 0px;
+	margin-top: 30px;
+	margin-bottom: 20px;
+	padding: 15px 15px 15px 15px;
+	border: 3px #062533;
+	text-align: center;
+	color:white;
+}
 
+.card-body{
+text-align: center;	
+font-family: " Helvetica";
+}
+
+.competion{
+height: 300px;
+width: auto;
+margin:0px 0px 0px 0px;
+}
+
+.contaier-footer{
+height: 120px;
+width: auto;
+background-color: #446E7D
+}
