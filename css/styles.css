@@ -3,15 +3,7 @@
 * { margin: 0; padding: 0; border: 0; font-size: 100%; }
 
 body{
-	background-color:#FFFFFF
-}
-
-header{
-	background-image: url("../images/achtergrond.jpg");
-		padding-top: 10px;
-	    padding-bottom: 150px;
-	    font-family: 'Playfair Display', serif;
-	    text-align: center
+	background-color:#446E7D
 }
 
 .my-class {
@@ -22,14 +14,55 @@ header{
 	background-color: #446E7D;
 }
 
+.overlay {
+    color: #fff;
+    position: absolute;
+    z-index: 40;
+    top: 20vw;
+    right: 0vw;
+	margin-top: 50px;
+}
+	
+.toptext {
+color: white;
+font-size: 6vw;
+font-family: " Helvetica";
+text-align: center;
+font-weight: bold;
+margin-left: 20px;
+margin-right: 20px
+}
+.text-center {
+    text-align: center!important;
+}
 
-.something {}
+.bottomtext{
+color:white;
+text-align: center;
+font-family: helvetica;
+font-weight: bold;	
+font-size: 3vw;
+}
 
-.button {
-	margin-right: 10px;
-    margin-left: 500px;
+.carousel-inner{
+height: 700px;
+width: auto;
+margin-right: 0px;
+margin-left: 0px;
+margin-top: 0px;
+margin-bottom: 0px;
+
+}
+
+.box {
+    background-color: #446E7D;
+    height: 200px;
+    width: auto;
+    margin-right: 0px;
 	margin-top: 0px;
 	margin-bottom: 0px;
+	border: 1px solid black;
 }
+
 
 
