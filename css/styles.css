@@ -4,6 +4,16 @@
 
 .my-carousel{
 max-height: auto;
+max-width: auto;
+margin: 0px 0px 20px 0px;
 }
 
+.image{
+margin: 10px 20px 10px 0px;	
+align-content: center;
+}
 
+.textbox{
+margin: 10px 10px 10px 10px;
+text-align: center;
+}
