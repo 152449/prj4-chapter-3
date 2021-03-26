@@ -3,8 +3,6 @@
 * { margin: 0; padding: 0; border: 0; font-size: 100%; }
 
 .my-carousel{
-max-height: auto;
-max-width: auto;
 margin: 0px 0px 20px 0px;
 }
 
@@ -21,5 +19,3 @@ margin: 30px 10px 10px 10px;
 text-align: center
 }
 
-.jumbotron{	
-}
