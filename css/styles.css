@@ -8,12 +8,18 @@ max-width: auto;
 margin: 0px 0px 20px 0px;
 }
 
-.image{
-margin: 10px 20px 10px 0px;	
+.image{	
 align-content: center;
+margin: 10px 10px 10px 10px;
 }
 
 .textbox{
-margin: 10px 10px 10px 10px;
-text-align: center;
+margin: 30px 10px 10px 10px;
+}
+
+.card1 {
+text-align: center
+}
+
+.jumbotron{	
 }
